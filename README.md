@@ -14,5 +14,6 @@ go run todo.go
 Then point your browser to http://localhost:8080
 
 ## Update
- - pdate to echo/v4
+ - update to echo/v4
+ - add e.Logger
  - add github.com/tylerb/graceful
