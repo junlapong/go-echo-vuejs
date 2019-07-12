@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"go-echo-vuejs/handlers"
+	"todo/handlers"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/gommon/log"

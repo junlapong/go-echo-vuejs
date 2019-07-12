@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"go-echo-vuejs/models"
+	"todo/models"
 
 	"github.com/labstack/echo/v4"
 )

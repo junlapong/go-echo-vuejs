@@ -1,4 +1,4 @@
-module go-echo-vuejs
+module todo
 
 go 1.12
 
